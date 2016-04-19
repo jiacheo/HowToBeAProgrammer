@@ -1,5 +1,6 @@
-# How to be a Programmer: Community Version
-Robert L. Read with Community
+# How to be a Programmer: Community Version  
+# 如何成为一个程序员：社区版  
+Robert L. Read with Community  
 
 Copyright 2002, 2003, 2016 Robert L. Read
 
